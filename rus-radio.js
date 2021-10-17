@@ -50,4 +50,4 @@
         "http://icecast.newradio.cdnvideo.ru/newradio3",
         "http://radio-holding.ru:9000/marusya_default"
      ]         
-                                          }
+}
