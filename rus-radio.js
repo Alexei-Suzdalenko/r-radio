@@ -1,4 +1,5 @@
 {"name":   [
+    "Новое Радио",
     "Ibiza Radio",
     "Deep House",
     "Дискотека ссср",
@@ -25,6 +26,7 @@
     "Радио Маруся"
      ], 
  "uri" : [
+        "http://icecast.newradio.cdnvideo.ru/newradio3",
         "http://listenssl.ibizaglobalradio.com:8024/stream",
         "http://pub0101.101.ru:8000/stream/trust/mp3/128/173",
         "http://pub0101.101.ru:8000/stream/pro/aac/64/144",
